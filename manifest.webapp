@@ -1,0 +1,14 @@
+{
+  "name": "Calculator",
+  "description": "This is a application developed by Mozilla Sri Lanka Community member.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/128x128.png",
+    "512": "/img/512x512.png"
+  },
+  "developer": {
+    "name": "Lahiru Himesh Madusanka ",
+    "url": "http://eezpal.com"
+  },
+  "default_locale": "en"
+}
